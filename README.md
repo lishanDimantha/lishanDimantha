@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=200&lines=Welcome+to+Lishan's+Github;%3C%2F%3E" alt="Welcome to Lishan's Github" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=200&lines=Welcome+to+Lishan+Dimantha%27s+GitHub;%3C%2F%3E" alt="Welcome to Lishan Dimantha's GitHub" />
 
 <br/>
 
