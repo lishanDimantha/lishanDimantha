@@ -55,23 +55,10 @@ Right now I'm working on full-stack projects, data analysis and automation.
 
 ---
 
-<h2 align="center">Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lishanDimantha&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&count_private=true&rank_icon=github" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishanDimantha&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
 <h2 align="center">Contribution Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lishanDimantha&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=BDBDBD&dates=757575" alt="GitHub Streak" />
-</p>
-
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lishanDimantha&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&title_color=ffffff&radius=0" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
