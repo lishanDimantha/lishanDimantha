@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>Welcome to Lishan Dimantha's Github &lt;/&gt;</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=200&lines=Welcome+to+Lishan's+Github;%3C%2F%3E" alt="Welcome to Lishan's Github" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/lishandimantha"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://lishan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
