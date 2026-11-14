@@ -36,17 +36,11 @@ Beyond code, I bring leadership experience as a former <b>Deputy Head Prefect</b
 <p align="center">
 <b>Informatics Institute of Technology (IIT)</b>, affiliated with University of Westminster<br/>
 Colombo, Sri Lanka | 2024 – Present<br/><br/>
-Full-Stack Web Development using modern technologies<br/>
-Object-Oriented Programming using Java and Python<br/>
-Software Engineering design principles and SDLC models<br/>
-Computer Systems Architecture and Operating Systems<br/>
-Network Fundamentals and distributed systems
 </p>
 
 <h4 align="center">GCE Advanced Level – Physical Science Stream</h4>
 <p align="center">
 <b>St. Thomas College</b>, Matara, Sri Lanka | 2022<br/>
-Combined Mathematics | Physics | Chemistry<br/>
 Mathematical modeling, computational logic, algorithmic problem solving, data analysis and reasoning
 </p>
 
