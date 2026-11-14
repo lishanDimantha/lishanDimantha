@@ -50,48 +50,6 @@ Mathematical modeling, computational logic, algorithmic problem solving, data an
 Completed secondary education with strong academic performance
 </p>
 
----
-
-<h2 align="center">Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>Quick Reader</b><br/>
-      OCR-powered prescription digitisation system to mitigate human errors, integrating inventory management and delivery logistics modules.<br/><br/>
-      <img src="https://img.shields.io/badge/OCR-000000?style=flat-square" alt="OCR" />
-      <img src="https://img.shields.io/badge/FULL--STACK-000000?style=flat-square" alt="Full-Stack" />
-      <img src="https://img.shields.io/badge/LOGISTICS-000000?style=flat-square" alt="Logistics" />
-    </td>
-    <td align="center" width="50%">
-      <b>Sustainable Development</b><br/>
-      Collaborative web project promoting renewable energy awareness, with cross-functional collaboration on environmental sustainability challenges.<br/><br/>
-      <img src="https://img.shields.io/badge/HTML-000000?style=flat-square" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-000000?style=flat-square" alt="CSS" />
-      <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>Vehicle Tracker</b><br/>
-      Desktop traffic monitoring solution using Python and Tkinter with event-driven GUI, CSV/JSON data persistence, and statistical reporting.<br/><br/>
-      <img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square" alt="Python" />
-      <img src="https://img.shields.io/badge/TKINTER-000000?style=flat-square" alt="Tkinter" />
-      <img src="https://img.shields.io/badge/CSV%2FJSON-000000?style=flat-square" alt="CSV/JSON" />
-    </td>
-    <td align="center" width="50%">
-      <b>TsakOrus Marketplace</b><br/>
-      Full-stack MERN marketplace application featuring real-time bidding and messaging for local services, built as a hackathon finalist project.<br/><br/>
-      <img src="https://img.shields.io/badge/MONGODB-000000?style=flat-square" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square" alt="Express" />
-      <img src="https://img.shields.io/badge/REACT-000000?style=flat-square" alt="React" />
-      <img src="https://img.shields.io/badge/NODE.JS-000000?style=flat-square" alt="Node.js" />
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">Tech Stack</h2>
 
 <h4 align="center">Languages</h4>
@@ -134,27 +92,6 @@ Completed secondary education with strong academic performance
   <img src="https://img.shields.io/badge/AFTER_EFFECTS-000000?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
   <img src="https://img.shields.io/badge/CANVA-000000?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 </p>
-
----
-
-<h2 align="center">Key Achievements</h2>
-
-<p align="center">
-<b>Deputy Head Prefect, St. Thomas College</b><br/>
-Led a diverse team through strategic decision-making and mentorship. Managed the end-to-end lifecycle of major school events under tight deadlines.
-</p>
-
-<p align="center">
-<b>Finalist, Xccelerate SIAS Inter-University Hackathon 2025</b><br/>
-Selected as finalist for TsakOrus, a full-stack MERN marketplace with real-time bidding and messaging for local services.
-</p>
-
-<p align="center">
-<b>HackSphere '25 | IEEE 19.0</b><br/>
-Competed in a global 24-hour coding marathon, solving challenging algorithmic problems under stringent time limits.
-</p>
-
----
 
 <h2 align="center">Contribution Streak</h2>
 
