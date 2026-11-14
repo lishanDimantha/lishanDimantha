@@ -16,9 +16,11 @@
 <h2 align="center">About me</h2>
 
 <p align="center">
-Hello There! I'm <b>Lishan Dimantha</b>, a Software Engineering undergraduate at the <b>Informatics Institute of Technology (IIT)</b>, Sri Lanka.<br/>
-I enjoy building useful, scalable and modern applications, exploring new technologies, and turning ideas into practical solutions.<br/>
-Right now I'm working on full-stack projects, data analysis and automation.
+I'm an innovative Software Engineering undergraduate at the University of Westminster, Colombo — passionate about architecting user-centric solutions across the full stack.
+
+Proficient in Full-Stack web technologies with competency in data-driven projects. Adaptable and collaborative with the ability to optimise and deliver high-quality results, continually exploring avenues of value creation.
+
+Beyond code, I bring leadership experience as a former Deputy Head Prefect and a competitive edge sharpened through university-level hackathons.
 </p>
 
 <p align="center">
